@@ -1,1 +1,1 @@
-![React](https://user-images.githubusercontent.com/8418700/230794926-b0b876b3-4074-49a8-b2f7-ad9f9f7aefa4.png)
+![React](https://user-images.githubusercontent.com/8418700/230794956-d0969401-c837-4f30-b382-b1d3d45a4d80.png)
