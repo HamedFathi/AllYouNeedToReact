@@ -60,7 +60,7 @@
 - [styled-components](https://github.com/styled-components/styled-components)
 - [vanilla-extract](https://github.com/seek-oss/vanilla-extract)
 
-##### Testing
+## Testing
 
 - [enzyme](https://github.com/airbnb/enzyme)
 - [jest](https://github.com/facebook/jest)
