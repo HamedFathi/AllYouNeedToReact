@@ -66,3 +66,4 @@
 - [jest](https://github.com/facebook/jest)
 - [react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library)
 - [react-testing-library](https://github.com/testing-library/react-testing-library)
+- [vitest](https://vitest.dev/)
